@@ -1,0 +1,7 @@
+[package]
+name = "itgenius-rust-beginner-xxx"
+version = "0.1.0"
+edition = "2024"
+default-run = "itgenius-rust-beginner-xxx"
+
+[dependencies]
