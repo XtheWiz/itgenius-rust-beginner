@@ -1,7 +1,5 @@
-[package]
-name = "itgenius-rust-beginner-xxx"
-version = "0.1.0"
-edition = "2024"
-default-run = "itgenius-rust-beginner-xxx"
-
-[dependencies]
+[workspace]
+members = [
+    "section_01_basics/ch_01_hello_world", 
+    "section_01_basics/ch_02_variables"
+]
