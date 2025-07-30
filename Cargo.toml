@@ -2,4 +2,9 @@
 members = [
     "section_01_basics/ch_01_hello_world", 
     "section_01_basics/ch_02_variables"
-]
+, "section_01_basics/ch_03_functions", "section_01_basics/ch_04_modules", "section_01_basics/ch_04_modules_ex"]
+
+# For rust version after 2021+
+resolver = "2"
+
+default-members = ["section_01_basics/ch_02_variables"]

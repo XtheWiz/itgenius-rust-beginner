@@ -1,0 +1,12 @@
+{
+    // Rust
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.inlayHints.closureReturnTypeHints.enable": "never",
+    "rust-analyzer.inlayHints.chainingHints.enable": false,
+    "rust-analyzer.inlayHints.bindingModeHints.enable": false,
+    "rust-analyzer.inlayHints.lifetimeElisionHints.enable": "never",
+    "rust-analyzer.inlayHints.closureCaptureHints.enable": false,
+    "rust-analyzer.inlayHints.discriminantHints.enable": "never",
+    "rust-analyzer.inlayHints.closingBraceHints.enable": false
+}
