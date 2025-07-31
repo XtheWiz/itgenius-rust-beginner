@@ -37,3 +37,11 @@ version = "0.1.0"
 [[package]]
 name = "ch_04_modules_ex"
 version = "0.1.0"
+
+[[package]]
+name = "ch_04_stack_heap"
+version = "0.1.0"
+
+[[package]]
+name = "ch_05_ownership_borrowing"
+version = "0.1.0"
