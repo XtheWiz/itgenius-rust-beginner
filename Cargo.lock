@@ -7,11 +7,27 @@ name = "ch_01_hello_world"
 version = "0.1.0"
 
 [[package]]
+name = "ch_01_ifelse_condition"
+version = "0.1.0"
+
+[[package]]
+name = "ch_02_match_condition"
+version = "0.1.0"
+
+[[package]]
 name = "ch_02_variables"
 version = "0.1.0"
 
 [[package]]
 name = "ch_03_functions"
+version = "0.1.0"
+
+[[package]]
+name = "ch_03_functions_ex"
+version = "0.1.0"
+
+[[package]]
+name = "ch_03_loops"
 version = "0.1.0"
 
 [[package]]
