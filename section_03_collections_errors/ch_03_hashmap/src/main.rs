@@ -19,6 +19,7 @@ fn main() {
     }
     
     scores.entry("Team D").or_insert(0);
+    scores.entry("Team A").and_modify(|score| *score += 5);
     
     println!("--- After at Team D --------------");
     for (team, score) in &scores {
