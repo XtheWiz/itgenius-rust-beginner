@@ -11,7 +11,6 @@ pub fn lifetime_example() {
   let r;
   let s2 = String::from("Rust");
 
-
   {
     r = longest(&s1, &s2);
   }
