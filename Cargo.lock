@@ -35,6 +35,10 @@ name = "ch_03_functions_ex"
 version = "0.1.0"
 
 [[package]]
+name = "ch_03_hashmap"
+version = "0.1.0"
+
+[[package]]
 name = "ch_03_loops"
 version = "0.1.0"
 
